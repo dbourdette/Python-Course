@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StudySettings">
+    <StudyTaskManager>
+      <option name="course">
+        <Course>
+          <option name="authors">
+            <list>
+              <StepicUser>
+                <option name="accessToken" value="" />
+                <option name="firstName" value="jaad" />
+                <option name="guest" value="false" />
+                <option name="id" value="-1" />
+                <option name="lastName" value="" />
+                <option name="refreshToken" value="" />
+              </StepicUser>
+            </list>
+          </option>
+          <option name="courseMode" value="Course Creator" />
+          <option name="courseType" value="PyCharm" />
+          <option name="description" value="Apprendre la programmation avec Python" />
+          <option name="language" value="Python" />
+          <option name="languageCode" value="en" />
+          <option name="lessons">
+            <list>
+              <Lesson>
+                <option name="id" value="0" />
+                <option name="index" value="1" />
+                <option name="name" value="Hello World" />
+                <option name="updateDate" />
+                <option name="taskList">
+                  <list>
+                    <EduTask>
+                      <option name="additionalFiles">
+                        <map />
+                      </option>
+                      <option name="index" value="1" />
+                      <option name="name" value="leçon" />
+                      <option name="status" value="Solved" />
+                      <option name="stepId" value="0" />
+                      <option name="taskTexts">
+                        <map>
+                          <entry key="task" value="&lt;html&gt;&#10;&lt;h1&gt;Apprendre la programmation avec Python&lt;/h1&gt;&#10;&lt;p&gt;&#10;    Un language de programmation permet de controller un ordinateur :&#10;    faire des calculs, lire des sons, créer des jeux vidéos...&lt;/p&gt;&#10;&lt;p&gt;&#10;    Ici nous allons faire du Python :&#10;    c'est un language simple créé par Guido van Rossum le 20 février 1991.&#10;&lt;/p&gt;&#10;&lt;div style=&quot;text-align:center&quot;&gt;&#10;    &lt;img src=&quot;python.png&quot; alt=&quot;python&quot;&gt;&#10;&lt;/div&gt;&#10;&lt;p&gt;&#10;    Quand on apprend un nouveau language, on a pour habitude de commencer par écrire&#10;    un progamme très simple : un &lt;b&gt;&quot;hello world&quot;&lt;/b&gt;&#10;&lt;/p&gt;&#10;&lt;/html&gt;&#10;" />
+                        </map>
+                      </option>
+                      <option name="testsText">
+                        <map>
+                          <entry key="tests.py" value="from test_helper import run_common_tests, failed, passed, get_answer_placeholders&#10;&#10;&#10;def test_answer_placeholders():&#10;    placeholders = get_answer_placeholders()&#10;    placeholder = placeholders[0]&#10;    if placeholder == &quot;&quot;:       # TODO: your condition here&#10;        passed()&#10;    else:&#10;        failed()&#10;&#10;&#10;if __name__ == '__main__':&#10;    run_common_tests()&#10;    # test_answer_placeholders()       # TODO: uncomment test call&#10;&#10;&#10;" />
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                      <option name="taskFiles">
+                        <map>
+                          <entry key="task.py">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="index" value="2" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="name" value="task.py" />
+                                <option name="text" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                    </EduTask>
+                  </list>
+                </option>
+              </Lesson>
+              <Lesson>
+                <option name="id" value="0" />
+                <option name="index" value="2" />
+                <option name="name" value="Opérations" />
+                <option name="updateDate" />
+                <option name="taskList">
+                  <list>
+                    <EduTask>
+                      <option name="additionalFiles">
+                        <map />
+                      </option>
+                      <option name="index" value="1" />
+                      <option name="name" value="leçon" />
+                      <option name="status" value="Unchecked" />
+                      <option name="stepId" value="0" />
+                      <option name="taskTexts">
+                        <map>
+                          <entry key="task" value="&lt;html&gt;&#10;&lt;head&gt;&#10;    &lt;style&gt;&#10;        .code {&#10;            font-size: 87.5%;&#10;            color: #e83e8c;&#10;            background-color: #ffe7f2;&#10;            word-break: break-word;&#10;            font-family: SFMono-Regular,Menlo,Monaco,Consolas,&quot;Liberation Mono&quot;,&quot;Courier New&quot;,monospace;&#10;            padding: 2px 5px;&#10;            border-radius: 5px;&#10;        }&#10;&#10;        .block {&#10;            padding: 10px;&#10;            background-color: #eee;&#10;            border-radius: 5px;&#10;        }&#10;    &lt;/style&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;h1&gt;Le calcul&lt;/h1&gt;&#10;&lt;p&gt;&#10;    Avec un language de programmation, il est possible de faire des calculs (comme avec une calculatrice) &lt;span class=&quot;cole&quot;&gt;ex: 2 + 10&lt;/span&gt;.&#10;&lt;/p&gt;&#10;&lt;p&gt;&#10;    Pour faire des calculs, on utilise des &lt;b&gt;opérateurs&lt;/b&gt;.&#10;&lt;/p&gt;&#10;&lt;div class=&quot;block&quot;&gt;&#10;    &lt;ul&gt;&#10;        &lt;li&gt;+ : addition&lt;/li&gt;&#10;        &lt;li&gt;- : soustraction&lt;/li&gt;&#10;        &lt;li&gt;* : multiplication&lt;/li&gt;&#10;        &lt;li&gt;/ : division&lt;/li&gt;&#10;    &lt;/ul&gt;&#10;&lt;/div&gt;&#10;&lt;p&gt;&#10;    Un calcul se lit de gauche à droite, mais les multiplications et les divisions sont prioritaires &lt;span class=&quot;code&quot;&gt;ex: 2 + 2 * 10 =&gt; 22&lt;/span&gt;.&#10;&lt;/p&gt;&#10;&lt;p&gt;&#10;    Il est possible d'utiliser des parenthèses afin de changer l'ordre de la priorité &lt;span class=&quot;code&quot;&gt;ex: (2 + 2) * 10 =&gt; 40&lt;/span&gt;.&#10;&lt;/p&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
+                        </map>
+                      </option>
+                      <option name="testsText">
+                        <map>
+                          <entry key="tests.py" value="from test_helper import run_common_tests, failed, passed, get_answer_placeholders&#10;&#10;&#10;def test_answer_placeholders():&#10;    placeholders = get_answer_placeholders()&#10;    placeholder = placeholders[0]&#10;    if placeholder == &quot;&quot;:       # TODO: your condition here&#10;        passed()&#10;    else:&#10;        failed()&#10;&#10;&#10;if __name__ == '__main__':&#10;    run_common_tests()&#10;    # test_answer_placeholders()       # TODO: uncomment test call&#10;&#10;&#10;" />
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                      <option name="taskFiles">
+                        <map>
+                          <entry key="task.py">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="index" value="1" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="name" value="task.py" />
+                                <option name="text" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                    </EduTask>
+                    <EduTask>
+                      <option name="additionalFiles">
+                        <map />
+                      </option>
+                      <option name="index" value="2" />
+                      <option name="name" value="exercice 1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="stepId" value="0" />
+                      <option name="taskTexts">
+                        <map>
+                          <entry key="task" value="&lt;html&gt;&#10;&lt;head&gt;&#10;    &lt;style&gt;&#10;        .code {&#10;            font-size: 87.5%;&#10;            color: #e83e8c;&#10;            background-color: #ffe7f2;&#10;            word-break: break-word;&#10;            font-family: SFMono-Regular,Menlo,Monaco,Consolas,&quot;Liberation Mono&quot;,&quot;Courier New&quot;,monospace;&#10;            padding: 2px 5px;&#10;            border-radius: 5px;&#10;        }&#10;&#10;        .block {&#10;            padding: 10px;&#10;            background-color: #eee;&#10;            border-radius: 5px;&#10;        }&#10;    &lt;/style&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;h1&gt;Cultivons des pommes&lt;/h1&gt;&#10;&lt;p&gt;&#10;    Un fermier possède 30 pommiers&#10;&lt;/p&gt;&#10;&lt;p&gt;&#10;    Chaque pommier donne 17 pommes mais 2 sont mangés pas les oiseaux.&#10;&lt;/p&gt;&#10;&lt;p&gt;&#10;    A la fin, le fermier en garde 8 pour lui.&#10;&lt;/p&gt;&#10;&lt;p&gt;&#10;    Combien peut il en vendre ?&#10;&lt;/p&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
+                        </map>
+                      </option>
+                      <option name="testsText">
+                        <map>
+                          <entry key="tests.py" value="from test_helper import run_common_tests, failed, passed, get_answer_placeholders&#10;&#10;&#10;def test_answer_placeholders():&#10;    placeholders = get_answer_placeholders()&#10;    placeholder = placeholders[0]&#10;    if placeholder == &quot;&quot;:       # TODO: your condition here&#10;        passed()&#10;    else:&#10;        failed()&#10;&#10;&#10;if __name__ == '__main__':&#10;    run_common_tests()&#10;    # test_answer_placeholders()       # TODO: uncomment test call&#10;&#10;&#10;" />
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                      <option name="taskFiles">
+                        <map>
+                          <entry key="task.py">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="index" value="1" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="name" value="task.py" />
+                                <option name="text" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                    </EduTask>
+                    <EduTask>
+                      <option name="additionalFiles">
+                        <map />
+                      </option>
+                      <option name="index" value="3" />
+                      <option name="name" value="exercice 2" />
+                      <option name="status" value="Unchecked" />
+                      <option name="stepId" value="0" />
+                      <option name="taskTexts">
+                        <map>
+                          <entry key="task" value="&lt;html&gt;&#10;&lt;head&gt;&#10;    &lt;style&gt;&#10;        .code {&#10;            font-size: 87.5%;&#10;            color: #e83e8c;&#10;            background-color: #ffe7f2;&#10;            word-break: break-word;&#10;            font-family: SFMono-Regular,Menlo,Monaco,Consolas,&quot;Liberation Mono&quot;,&quot;Courier New&quot;,monospace;&#10;            padding: 2px 5px;&#10;            border-radius: 5px;&#10;        }&#10;&#10;        .block {&#10;            padding: 10px;&#10;            background-color: #eee;&#10;            border-radius: 5px;&#10;        }&#10;    &lt;/style&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;h1&gt;Calculs&lt;/h1&gt;&#10;&lt;p&gt;&#10;    Quel est le résultat des calculs suivants ?&#10;&lt;/p&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;1 + 2 * 3&lt;/li&gt;&#10;    &lt;li&gt;10 * 10 / 5 * 2&lt;/li&gt;&#10;    &lt;li&gt;1.5 + 1.5 * 2&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;div class=&quot;block&quot;&gt;&#10;    En informatique, la virgule s'écrit avec un &lt;span class=&quot;code&quot;&gt;.&lt;/span&gt;&#10;&lt;/div&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
+                        </map>
+                      </option>
+                      <option name="testsText">
+                        <map>
+                          <entry key="tests.py" value="from test_helper import run_common_tests, failed, passed, get_answer_placeholders&#10;&#10;&#10;def test_answer_placeholders():&#10;    placeholders = get_answer_placeholders()&#10;    placeholder = placeholders[0]&#10;    if placeholder == &quot;&quot;:       # TODO: your condition here&#10;        passed()&#10;    else:&#10;        failed()&#10;&#10;&#10;if __name__ == '__main__':&#10;    run_common_tests()&#10;    # test_answer_placeholders()       # TODO: uncomment test call&#10;&#10;&#10;" />
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                      <option name="taskFiles">
+                        <map>
+                          <entry key="task.py">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="index" value="1" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="name" value="task.py" />
+                                <option name="text" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                    </EduTask>
+                  </list>
+                </option>
+              </Lesson>
+              <Lesson>
+                <option name="id" value="0" />
+                <option name="index" value="3" />
+                <option name="name" value="Les variables" />
+                <option name="updateDate" />
+                <option name="taskList">
+                  <list>
+                    <EduTask>
+                      <option name="additionalFiles">
+                        <map />
+                      </option>
+                      <option name="index" value="1" />
+                      <option name="name" value="leçon" />
+                      <option name="status" value="Unchecked" />
+                      <option name="stepId" value="0" />
+                      <option name="taskTexts">
+                        <map>
+                          <entry key="task" value="&lt;html&gt;&#10;&lt;head&gt;&#10;    &lt;style&gt;&#10;        .code {&#10;            font-size: 87.5%;&#10;            color: #e83e8c;&#10;            background-color: #ffe7f2;&#10;            word-break: break-word;&#10;            font-family: SFMono-Regular,Menlo,Monaco,Consolas,&quot;Liberation Mono&quot;,&quot;Courier New&quot;,monospace;&#10;            padding: 2px 5px;&#10;            border-radius: 5px;&#10;        }&#10;&#10;        .block {&#10;            padding: 10px;&#10;            background-color: #eee;&#10;            border-radius: 5px;&#10;        }&#10;    &lt;/style&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;h1&gt;Les variables&lt;/h1&gt;&#10;&lt;p&gt;&#10;    Une variable est un élément dans lequel on range une valeur.&#10;    &lt;br&gt;&#10;    Une variable a un nom : &lt;span class=&quot;code&quot;&gt;ex: toto&lt;/span&gt;.&#10;&lt;/p&gt;&#10;&lt;p&gt;&#10;    On utilise le signe &lt;span class=&quot;code&quot;&gt;=&lt;/span&gt; afin de ranger (affecter) une valeur&#10;    à une variable : &lt;span class=&quot;code&quot;&gt;ex: toto = 10&lt;/span&gt;.&#10;&lt;/p&gt;&#10;&lt;p&gt;&#10;    Il est possible de changer la valeur d'une variable en utilisant encore le signe &lt;span class=&quot;code&quot;&gt;=&lt;/span&gt;.&#10;&lt;/p&gt;&#10;&lt;p&gt;&#10;    Pour savoir ce qui est rangé dans une variable, on peut afficher son contenu avec &lt;span class=&quot;code&quot;&gt;print(toto)&lt;/span&gt;.&#10;&lt;/p&gt;&#10;&lt;p&gt;&#10;    Le nom d'une variable est très important : il doit indiquer clairement ce qu'il représente (&lt;span class=&quot;code&quot;&gt;ex: nombre_de_pomme&lt;/span&gt;).&#10;&lt;/p&gt;&#10;&lt;div class=&quot;block&quot;&gt;&#10;    Les noms de variables peuvent comporter des lettres, des chiffres et le caractère souligné (_) mais ne commencent pas par un chiffre.&#10;    &lt;br&gt;&#10;    Les accents sont autorisés mais il est fortement recommandé de ne pas en mettre.&#10;&lt;/div&gt;&#10;&lt;p&gt;&#10;    Habituellement, on utilise l'anglais pour nommer les variables &lt;span class=&quot;code&quot;&gt;ex: apple_count&lt;/span&gt;.&#10;&lt;/p&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
+                        </map>
+                      </option>
+                      <option name="testsText">
+                        <map>
+                          <entry key="tests.py" value="from test_helper import run_common_tests, failed, passed, get_answer_placeholders&#10;&#10;&#10;def test_answer_placeholders():&#10;    placeholders = get_answer_placeholders()&#10;    placeholder = placeholders[0]&#10;    if placeholder == &quot;&quot;:       # TODO: your condition here&#10;        passed()&#10;    else:&#10;        failed()&#10;&#10;&#10;if __name__ == '__main__':&#10;    run_common_tests()&#10;    # test_answer_placeholders()       # TODO: uncomment test call&#10;&#10;&#10;" />
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                      <option name="taskFiles">
+                        <map>
+                          <entry key="task.py">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="index" value="1" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="name" value="task.py" />
+                                <option name="text" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                    </EduTask>
+                    <EduTask>
+                      <option name="additionalFiles">
+                        <map />
+                      </option>
+                      <option name="index" value="2" />
+                      <option name="name" value="exercice 1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="stepId" value="0" />
+                      <option name="taskTexts">
+                        <map>
+                          <entry key="task" value="&lt;html&gt;&#10;&lt;head&gt;&#10;    &lt;style&gt;&#10;        .code {&#10;            font-size: 87.5%;&#10;            color: #e83e8c;&#10;            background-color: #ffe7f2;&#10;            word-break: break-word;&#10;            font-family: SFMono-Regular,Menlo,Monaco,Consolas,&quot;Liberation Mono&quot;,&quot;Courier New&quot;,monospace;&#10;            padding: 2px 5px;&#10;            border-radius: 5px;&#10;        }&#10;&#10;        .block {&#10;            padding: 10px;&#10;            background-color: #eee;&#10;            border-radius: 5px;&#10;        }&#10;    &lt;/style&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;h1&gt;Cultivons des pommes 2&lt;/h1&gt;&#10;&lt;p&gt;Réécrire le problème suivant en utilisant des variables.&lt;/p&gt;&#10;&lt;hr&gt;&#10;&lt;p&gt;&#10;    Un fermier possède 30 pommiers&#10;&lt;/p&gt;&#10;&lt;p&gt;&#10;    Chaque pommier donne 17 pommes mais 2 sont mangés pas les oiseaux.&#10;&lt;/p&gt;&#10;&lt;p&gt;&#10;    A la fin, le fermier en garde 8 pour lui.&#10;&lt;/p&gt;&#10;&lt;p&gt;&#10;    Combien peut il en vendre ?&#10;&lt;/p&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
+                        </map>
+                      </option>
+                      <option name="testsText">
+                        <map>
+                          <entry key="tests.py" value="from test_helper import run_common_tests, failed, passed, get_answer_placeholders&#10;&#10;&#10;def test_answer_placeholders():&#10;    placeholders = get_answer_placeholders()&#10;    placeholder = placeholders[0]&#10;    if placeholder == &quot;&quot;:       # TODO: your condition here&#10;        passed()&#10;    else:&#10;        failed()&#10;&#10;&#10;if __name__ == '__main__':&#10;    run_common_tests()&#10;    # test_answer_placeholders()       # TODO: uncomment test call&#10;&#10;&#10;" />
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                      <option name="taskFiles">
+                        <map>
+                          <entry key="task.py">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="index" value="1" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="name" value="task.py" />
+                                <option name="text" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                    </EduTask>
+                    <EduTask>
+                      <option name="additionalFiles">
+                        <map />
+                      </option>
+                      <option name="index" value="3" />
+                      <option name="name" value="exercice 2" />
+                      <option name="status" value="Unchecked" />
+                      <option name="stepId" value="0" />
+                      <option name="taskTexts">
+                        <map>
+                          <entry key="task" value="&lt;html&gt;&#10;&lt;head&gt;&#10;    &lt;style&gt;&#10;        .code {&#10;            font-size: 87.5%;&#10;            color: #e83e8c;&#10;            background-color: #ffe7f2;&#10;            word-break: break-word;&#10;            font-family: SFMono-Regular,Menlo,Monaco,Consolas,&quot;Liberation Mono&quot;,&quot;Courier New&quot;,monospace;&#10;            padding: 2px 5px;&#10;            border-radius: 5px;&#10;        }&#10;&#10;        .block {&#10;            padding: 10px;&#10;            background-color: #eee;&#10;            border-radius: 5px;&#10;        }&#10;    &lt;/style&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;h1&gt;Question&lt;/h1&gt;&#10;&lt;p&gt;&#10;    Si on écrit :&#10;&lt;/p&gt;&#10;&lt;p class=&quot;code&quot;&gt;&#10;    toto = 10 &lt;br&gt;&#10;    titi = 20 &lt;br&gt;&#10;    toto = titi &lt;br&gt;&#10;&lt;/p&gt;&#10;&lt;p&gt;&#10;    Que vaut &lt;span class=&quot;code&quot;&gt;toto&lt;/span&gt; à la fin ?&#10;&lt;/p&gt;&#10;&lt;p&gt;&#10;    Et comme ça ? :&#10;&lt;/p&gt;&#10;&lt;p class=&quot;code&quot;&gt;&#10;    toto = 10 &lt;br&gt;&#10;    titi = 20 &lt;br&gt;&#10;    toto = titi &lt;br&gt;&#10;    titi = 30 &lt;br&gt;&#10;&lt;/p&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
+                        </map>
+                      </option>
+                      <option name="testsText">
+                        <map>
+                          <entry key="tests.py" value="from test_helper import run_common_tests, failed, passed, get_answer_placeholders&#10;&#10;&#10;def test_answer_placeholders():&#10;    placeholders = get_answer_placeholders()&#10;    placeholder = placeholders[0]&#10;    if placeholder == &quot;&quot;:       # TODO: your condition here&#10;        passed()&#10;    else:&#10;        failed()&#10;&#10;&#10;if __name__ == '__main__':&#10;    run_common_tests()&#10;    # test_answer_placeholders()       # TODO: uncomment test call&#10;&#10;&#10;" />
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                      <option name="taskFiles">
+                        <map>
+                          <entry key="task.py">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="index" value="1" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="name" value="task.py" />
+                                <option name="text" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                    </EduTask>
+                  </list>
+                </option>
+              </Lesson>
+            </list>
+          </option>
+          <option name="name" value="Python Course" />
+        </Course>
+      </option>
+      <option name="toolWindowMode" value="TEXT" />
+      <option name="turnEditingMode" value="false" />
+      <option name="VERSION" value="8" />
+      <option name="myUserTests">
+        <map />
+      </option>
+    </StudyTaskManager>
+  </component>
+</project>

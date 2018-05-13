@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d25c170e-5e39-48cc-a1ce-50fe3c8761cf" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="task.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson3/task3/task.py">
+          <provider selected="true" editor-type-id="StudyEditor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Course" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Course">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python Course" type="ef639090:CCCourseNode" />
+            </path>
+            <path>
+              <item name="Python Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python Course" type="ef639090:CCCourseNode" />
+              <item name="lesson3" type="e994c609:CCLessonNode" />
+            </path>
+            <path>
+              <item name="Python Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python Course" type="ef639090:CCCourseNode" />
+              <item name="lesson3" type="e994c609:CCLessonNode" />
+              <item name="task3" type="83e62b93:CCTaskNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jaad\PycharmProjects\Python Course\lesson3\task3" />
+      <recent name="C:\Users\jaad\PycharmProjects\Python Course\lesson3\task2" />
+      <recent name="C:\Users\jaad\PycharmProjects\Python Course\lesson3\task1" />
+      <recent name="C:\Users\jaad\PycharmProjects\Python Course\lesson2\task3" />
+      <recent name="C:\Users\jaad\PycharmProjects\Python Course\lesson2\task2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\jaad\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Task Description" visible="true" weight="0.32995737" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lesson2/task1/task.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task2/task.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task3/task.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task3/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task3/task.py">
+      <provider selected="true" editor-type-id="StudyEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task2/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task2/task.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task1/task.py">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task1/task.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="119">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task1/task.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task1/task.py">
+      <provider selected="true" editor-type-id="StudyEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task2/task.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task2/task.py">
+      <provider selected="true" editor-type-id="StudyEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task3/task.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task3/task.py">
+      <provider selected="true" editor-type-id="StudyEditor" />
+    </entry>
+  </component>
+</project>
