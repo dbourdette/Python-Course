@@ -1,1 +1,2 @@
-print('vous quelques\nmots dans\nune phrase.')
+# coding=utf-8
+

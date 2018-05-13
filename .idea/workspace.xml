@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d25c170e-5e39-48cc-a1ce-50fe3c8761cf" name="Default" comment="" />
+    <list default="true" id="d25c170e-5e39-48cc-a1ce-50fe3c8761cf" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/lesson4/task3/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/task3/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/task3/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/task3/task.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,12 +15,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="task.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson2/task1/task.py">
-          <provider selected="true" editor-type-id="StudyEditor">
-            <state>
-              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/lesson7/task1/task.py">
+          <provider selected="true" editor-type-id="StudyEditor" />
         </entry>
       </file>
     </leaf>
@@ -30,6 +29,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/lesson2/task1/task.py" />
+        <option value="$PROJECT_DIR$/lesson4/task3/task.py" />
       </list>
     </option>
   </component>
@@ -58,23 +58,23 @@
             <path>
               <item name="Python-Course" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Course" type="ef639090:CCCourseNode" />
-              <item name="lesson1" type="e994c609:CCLessonNode" />
+              <item name="lesson7" type="e994c609:CCLessonNode" />
             </path>
             <path>
               <item name="Python-Course" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Course" type="ef639090:CCCourseNode" />
-              <item name="lesson1" type="e994c609:CCLessonNode" />
+              <item name="lesson7" type="e994c609:CCLessonNode" />
               <item name="task1" type="83e62b93:CCTaskNode" />
             </path>
             <path>
               <item name="Python-Course" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Course" type="ef639090:CCCourseNode" />
-              <item name="lesson2" type="e994c609:CCLessonNode" />
+              <item name="lesson8" type="e994c609:CCLessonNode" />
             </path>
             <path>
               <item name="Python-Course" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Course" type="ef639090:CCCourseNode" />
-              <item name="lesson2" type="e994c609:CCLessonNode" />
+              <item name="lesson8" type="e994c609:CCLessonNode" />
               <item name="task1" type="83e62b93:CCTaskNode" />
             </path>
           </expand>
@@ -135,13 +135,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson2/task2/task.py">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson4/task1/task.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -151,26 +144,11 @@
     <entry file="file://$PROJECT_DIR$/lesson4/task3/task.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4/task3/task.py">
-      <provider selected="true" editor-type-id="StudyEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4/task2/task.py">
-      <provider selected="true" editor-type-id="StudyEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4/task1/task.py">
-      <provider selected="true" editor-type-id="StudyEditor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson5/task1/task.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson7/task1/task.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson7/task1/task.py">
-      <provider selected="true" editor-type-id="StudyEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson5/task1/task.py">
-      <provider selected="true" editor-type-id="StudyEditor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitattributes">
       <provider selected="true" editor-type-id="text-editor" />
@@ -178,16 +156,75 @@
     <entry file="file://$PROJECT_DIR$/lesson1/task1/task.py">
       <provider selected="true" editor-type-id="StudyEditor">
         <state relative-caret-position="119">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson2/task1/task.py">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
-          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task2/task.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task3/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task3/task.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task1/task.py">
+      <provider selected="true" editor-type-id="StudyEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task2/task.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task3/task.py">
+      <provider selected="true" editor-type-id="StudyEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/task1/task.py">
+      <provider selected="true" editor-type-id="StudyEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/task2/task.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <caret selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/task2/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/task3/task.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson5/task1/task.py">
+      <provider selected="true" editor-type-id="StudyEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson6/task1/task.py">
+      <provider selected="true" editor-type-id="StudyEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson7/task1/task.py">
+      <provider selected="true" editor-type-id="StudyEditor" />
     </entry>
   </component>
 </project>

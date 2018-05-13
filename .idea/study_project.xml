@@ -55,7 +55,64 @@
                             <value>
                               <TaskFile>
                                 <option name="answerPlaceholders">
-                                  <list />
+                                  <list>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="0" />
+                                      <option name="initialState" />
+                                      <option name="length" value="18" />
+                                      <option name="offset" value="116" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="0">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="Tape ton nom ici !" />
+                                                <option name="possibleAnswer" value="Guido van Rossum" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Solved" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="1" />
+                                      <option name="initialState" />
+                                      <option name="length" value="19" />
+                                      <option name="offset" value="202" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="0">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="tape ce que tu veux" />
+                                                <option name="possibleAnswer" value="tape ce que tu veux" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Solved" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                  </list>
                                 </option>
                                 <option name="highlightErrors" value="false" />
                                 <option name="index" value="2" />
@@ -145,7 +202,36 @@
                             <value>
                               <TaskFile>
                                 <option name="answerPlaceholders">
-                                  <list />
+                                  <list>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="0" />
+                                      <option name="initialState" />
+                                      <option name="length" value="19" />
+                                      <option name="offset" value="11" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="0">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="écris le calcul ici" />
+                                                <option name="possibleAnswer" value="0" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                  </list>
                                 </option>
                                 <option name="highlightErrors" value="false" />
                                 <option name="index" value="1" />
@@ -430,7 +516,7 @@
                       <option name="stepId" value="0" />
                       <option name="taskTexts">
                         <map>
-                          <entry key="task" value="&lt;html&gt;&#10;&lt;head&gt;&#10;    &lt;style&gt;&#10;        .code {&#10;            font-size: 87.5%;&#10;            color: #e83e8c;&#10;            background-color: #ffe7f2;&#10;            word-break: break-word;&#10;            font-family: SFMono-Regular,Menlo,Monaco,Consolas,&quot;Liberation Mono&quot;,&quot;Courier New&quot;,monospace;&#10;            padding: 2px 5px;&#10;            border-radius: 5px;&#10;        }&#10;&#10;        .block {&#10;            padding: 10px;&#10;            background-color: #eee;&#10;            border-radius: 5px;&#10;        }&#10;    &lt;/style&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;h1&gt;Quelques chaines 2&lt;/h1&gt;&#10;&lt;p&gt;&#10;    Que font les codes suivant :&#10;&lt;/p&gt;&#10;&lt;p class=&quot;code&quot;&gt;&#10;    print(7 * 'Na' + ' Batman')&#10;&lt;/p&gt;&#10;&lt;p class=&quot;code&quot;&gt;&#10;    space = ' '&#10;    print(4 * space + '*' + 3 * space + '*') &lt;br&gt;&#10;    print('') &lt;br&gt;&#10;    print(2 * space + '*' + 3 * space + '*' + 3 * space + '*') &lt;br&gt;&#10;    print(3 * space + '*' + 5 * space + '*') &lt;br&gt;&#10;    print(4 * space + '*****') &lt;br&gt;&#10;&lt;/p&gt;&#10;&lt;p class=&quot;code&quot;&gt;&#10;    print('voici quelques\nmots dans\nune phrase.')&#10;&lt;/p&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
+                          <entry key="task" value="&lt;html&gt;&#10;&lt;head&gt;&#10;    &lt;style&gt;&#10;        .code {&#10;            font-size: 87.5%;&#10;            color: #e83e8c;&#10;            background-color: #ffe7f2;&#10;            word-break: break-word;&#10;            font-family: SFMono-Regular,Menlo,Monaco,Consolas,&quot;Liberation Mono&quot;,&quot;Courier New&quot;,monospace;&#10;            padding: 2px 5px;&#10;            border-radius: 5px;&#10;        }&#10;&#10;        .block {&#10;            padding: 10px;&#10;            background-color: #eee;&#10;            border-radius: 5px;&#10;        }&#10;    &lt;/style&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;h1&gt;Quelques chaines 2&lt;/h1&gt;&#10;&lt;p&gt;&#10;    Que font les codes suivant :&#10;&lt;/p&gt;&#10;&lt;p class=&quot;code&quot;&gt;&#10;    print(7 * 'Na' + ' Batman')&#10;&lt;/p&gt;&#10;&lt;p class=&quot;code&quot;&gt;&#10;    space = ' ' &lt;br&gt;&#10;    print(4 * space + '*' + 3 * space + '*') &lt;br&gt;&#10;    print('') &lt;br&gt;&#10;    print(2 * space + '*' + 3 * space + '*' + 3 * space + '*') &lt;br&gt;&#10;    print(3 * space + '*' + 5 * space + '*') &lt;br&gt;&#10;    print(4 * space + '*****') &lt;br&gt;&#10;&lt;/p&gt;&#10;&lt;p class=&quot;code&quot;&gt;&#10;    print('voici quelques\nmots dans\nune phrase.')&#10;&lt;/p&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
                         </map>
                       </option>
                       <option name="testsText">
@@ -447,7 +533,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
